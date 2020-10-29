@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{CBA720B2-1070-4E36-8ACD-9D86F8634473}|">
+  <MonoDevelop.Ide.ItemProperties.todo-list PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.todo-list.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="todo-list/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="todo-list/Controllers/HomeController.cs" Line="17" Column="35" />
+      <File FileName="todo-list/Views/Home/Index.cshtml" Line="1" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="todo-list" expanded="True">
+            <Node name="todo-list" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="todo-list" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
